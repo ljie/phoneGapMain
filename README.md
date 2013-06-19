@@ -1,4 +1,0 @@
-phoneGapMain
-============
-
-phoneGap develop
